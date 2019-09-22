@@ -1,0 +1,30 @@
+header.welcome-text {
+  text-align: center;
+  margin: 18px;
+}
+
+div.profile-picture {
+  float: left;
+  width: 150px;
+}
+
+div.profile-data {
+  float: left;
+}
+
+#profile-picture {
+  width: 150px;
+  height: auto;
+}
+
+.courses tr:nth-child(even) {
+  background: lightgrey;
+}
+
+section > h1{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+div.profile-data + div {
+  border-top: 2px solid grey;
+}
